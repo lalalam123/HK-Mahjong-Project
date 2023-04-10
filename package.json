@@ -1,0 +1,14 @@
+{
+  "name": "hk-mahjong-project",
+  "version": "1.0.0",
+  "description": "A research project on Hong Kong Mahjong",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerry Chan (jerrychan2206@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "hk-mahjong": "^3.2.0"
+  }
+}
