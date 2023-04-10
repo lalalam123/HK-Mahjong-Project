@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jerry Chan (jerrychan2206@gmail.com)",
+  "author": "Jerry Chan",
   "license": "ISC",
   "dependencies": {
     "hk-mahjong": "^3.2.0"
